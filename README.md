@@ -13,6 +13,8 @@ Spring 2023
 ## Description
 Our example website was built using the following: a GoDaddy domain, a bucket hosted on AWS S3, AWS Route 53, VS Code, an HTTP Request Inspector. The goal was to steal ID and password via a fake login system, while trying to mimic the legitimacy of the actual website. The website we decided to mimic is a popular online marketplace in South Korea. 
 
+*(all files are stored on the AWS bucket)*
+
 ## Project Team
 
 Yvan Hu (Department of Electronic Engineering)\
