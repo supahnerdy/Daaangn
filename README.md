@@ -1,5 +1,5 @@
 ### (DISCLAIMER)
-This project is **NOT** intended to be used for malicious purposes or to conduct any form of phishing attacks. This project was created strictly for educational purposes as part of an Information Technology class. It is intended to demonstrate how phishing websites can mimic the appearance of legitimate websites and how user data could be captured. Its functionality has now been disabled following the conculsion of the course and its final project.
+This project is **NOT** intended to be used for malicious purposes or to conduct any form of phishing attacks. This project was created strictly for educational purposes as part of an Information Technology class. It is intended to demonstrate how phishing websites can mimic the appearance of legitimate websites and how user data could be captured. No functionality works and has now been disabled following the conculsion of the course and its final project.
 
 # "Fishing" Project
 
@@ -11,9 +11,9 @@ Spring 2023
 
 
 ## Description
-Our example website was built using the following: a GoDaddy domain, a bucket hosted on AWS S3, AWS Route 53, VS Code, an HTTP Request Inspector. The goal was to steal ID and password via a fake login system, while trying to mimic the legitimacy of the actual website. The website we decided to mimic is a popular online marketplace in South Korea. 
+Our simple, example webpage was built using the following: a GoDaddy domain, a bucket hosted on AWS S3, AWS Route 53, VS Code, an HTTP Request Inspector. The goal was to steal ID and password via a fake login system, while trying to mimic the legitimacy of the actual website. The website we decided to mimic is a popular online marketplace in South Korea. 
 
-*(all files are stored on the AWS bucket)*
+*(all files stored on AWS bucket)*
 
 ## Project Team
 
